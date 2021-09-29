@@ -1,5 +1,4 @@
 # Python Speedtest
-
 Plot of Internet speed, and some other parameters.
 
 
